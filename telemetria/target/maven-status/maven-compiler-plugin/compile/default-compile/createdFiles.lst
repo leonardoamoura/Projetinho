@@ -1,0 +1,14 @@
+br\com\gas\telemetria\repository\EquipamentoRepository.class
+br\com\gas\telemetria\controller\form\AtualizacaoCliente.class
+br\com\gas\telemetria\controller\form\AtualizacaoEquipamento.class
+br\com\gas\telemetria\models\Equipamento.class
+br\com\gas\telemetria\controller\EquipamentosController.class
+br\com\gas\telemetria\repository\InstalacaoRepository.class
+br\com\gas\telemetria\controller\HelloController.class
+br\com\gas\telemetria\TelemetriaApplication.class
+br\com\gas\telemetria\controller\InstalacaoController.class
+br\com\gas\telemetria\repository\ClienteRepository.class
+br\com\gas\telemetria\models\Instalacao.class
+br\com\gas\telemetria\models\Cliente.class
+br\com\gas\telemetria\controller\form\AtualizacaoInstalacao.class
+br\com\gas\telemetria\controller\ClientesController.class
